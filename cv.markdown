@@ -15,7 +15,9 @@ B.S. in Physics and Astronomy, Graduate School Prepreation, with Honors, *summa 
 
 **University of Edinburgh, Edinburgh, Scotland**  
 Scottish Unviersities International Summer School, Creative Writing
+
 ---
+
 ### **Research Experience**
 **Dark Matter Simulations**  
 Dr. Andrew Zentner, University of Pittsburgh, Pittsburgh, PA  
@@ -36,12 +38,16 @@ Dr. Michael Hatridge, HATLAB, University of Pittsburgh, Pittsburgh, PA
 - Wrote software in Python to analyze the temperature of a quantum computer
 - Directly measured qubits using a multimeter in a clean room
 - Designed and 3D printed a mounting bracket in SolidWorks for use in a quantum computer
+
 ---
+
 ### Presentations & Posters
 Physics and Astronomy Undergraduate Poster Session, *University of Pittsburgh*  
 - Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP)
 - Sub-halo Alignment’s Dependence of Halo Clustering
+
 ---
+
 ### Work Experience
 **Radiation Safety Office, University of Pittsburgh** (May 2024 – August 2024)  
 *Intern*  
