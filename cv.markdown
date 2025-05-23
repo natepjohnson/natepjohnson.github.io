@@ -9,9 +9,9 @@ permalink: /cv/
 ### **Education**
 **University of Pittsburgh, Pittsburgh, Pennsylvania**  
 B.S. in Physics and Astronomy, Graduate School Prepreation, with Honors, *summa cum laude*  
-    Graduated May 2025, 3.8 GPA
-    Computer Science Minor  
-    Quantum Computing and Information Certificate  
+&nbsp;&nbsp;&nbsp;&nbsp;Graduated May 2025, 3.8 GPA
+&nbsp;&nbsp;&nbsp;&nbsp;Computer Science Minor  
+&nbsp;&nbsp;&nbsp;&nbsp;Quantum Computing and Information Certificate  
 
 **University of Edinburgh, Edinburgh, Scotland**  
 Scottish Unviersities International Summer School, Creative Writing
@@ -20,21 +20,21 @@ Scottish Unviersities International Summer School, Creative Writing
 
 ### **Research Experience**
 **Dark Matter Simulations** January 2023 - Present  
-Dr. Andrew Zentner, University of Pittsburgh, Pittsburgh, PA  
+*Dr. Andrew Zentner, University of Pittsburgh, Pittsburgh, PA*  
 - Wrote software in Python to analyze data from cosmological dark matter simulations
 - Used marked correlation functions to analyze dark matter halo clustering
 
 **Gravitational Lesning** January 2023 - Present  
-Dr. Atınç Çağan Şengül, University of Pittsburgh, Pittsburgh, PA  
+*Dr. Atınç Çağan Şengül, University of Pittsburgh, Pittsburgh, PA*  
 
 **Exoplanet Detection** January 2023 - Present  
-Dr. Michael Wood-Vasey, STEPUP, University of Pittsburgh, Pittsburgh, PA  
+*Dr. Michael Wood-Vasey, STEPUP, University of Pittsburgh, Pittsburgh, PA*  
 - Observed exoplanets using the 24” Keeler Telescope at the Allegheny Observatory via the transit method
 - Processed observations in AstroImageJ and Exotic to produce light curves for exoplanet transits
 - Wrote software in Python to produce light curves for exoplanet transits
 
 **Quantum Computing** January 2023 - Present  
-Dr. Michael Hatridge, HATLAB, University of Pittsburgh, Pittsburgh, PA  
+*Dr. Michael Hatridge, HATLAB, University of Pittsburgh, Pittsburgh, PA*  
 - Wrote software in Python to analyze the temperature of a quantum computer
 - Directly measured qubits using a multimeter in a clean room
 - Designed and 3D printed a mounting bracket in SolidWorks for use in a quantum computer
@@ -43,8 +43,8 @@ Dr. Michael Hatridge, HATLAB, University of Pittsburgh, Pittsburgh, PA
 
 ### **Presentations & Posters**
 **Physics and Astronomy Undergraduate Poster Session, *University of Pittsburgh***  
-&nbsp;[Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP)](https://drive.google.com/file/d/1ALcJ5jZS2Ex2AMWRszHjLHBsh9j1ZW0a/view?usp=sharing)  
-&nbsp;[Sub-halo Alignment’s Dependence of Halo Clustering](https://drive.google.com/file/d/12LyNud95TJlr9v9vn0X73wSuHLW117b-/view?usp=sharing)
+&nbsp;&nbsp;&nbsp;&nbsp;[Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP)](https://drive.google.com/file/d/1ALcJ5jZS2Ex2AMWRszHjLHBsh9j1ZW0a/view?usp=sharing)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Sub-halo Alignment’s Dependence of Halo Clustering](https://drive.google.com/file/d/12LyNud95TJlr9v9vn0X73wSuHLW117b-/view?usp=sharing)
 
 ---
 
