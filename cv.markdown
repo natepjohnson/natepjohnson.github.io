@@ -19,21 +19,21 @@ Scottish Unviersities International Summer School, Creative Writing
 ---
 
 ### **Research Experience**
-**Dark Matter Simulations**  
+**Dark Matter Simulations** January 2023 - Present  
 Dr. Andrew Zentner, University of Pittsburgh, Pittsburgh, PA  
 - Wrote software in Python to analyze data from cosmological dark matter simulations
 - Used marked correlation functions to analyze dark matter halo clustering
 
-**Gravitational Lesning**  
+**Gravitational Lesning** January 2023 - Present  
 Dr. Atınç Çağan Şengül, University of Pittsburgh, Pittsburgh, PA  
 
-**Exoplanet Detection**  
+**Exoplanet Detection** January 2023 - Present  
 Dr. Michael Wood-Vasey, STEPUP, University of Pittsburgh, Pittsburgh, PA  
 - Observed exoplanets using the 24” Keeler Telescope at the Allegheny Observatory via the transit method
 - Processed observations in AstroImageJ and Exotic to produce light curves for exoplanet transits
 - Wrote software in Python to produce light curves for exoplanet transits
 
-**Quantum Computing**  
+**Quantum Computing** January 2023 - Present  
 Dr. Michael Hatridge, HATLAB, University of Pittsburgh, Pittsburgh, PA  
 - Wrote software in Python to analyze the temperature of a quantum computer
 - Directly measured qubits using a multimeter in a clean room
@@ -41,15 +41,15 @@ Dr. Michael Hatridge, HATLAB, University of Pittsburgh, Pittsburgh, PA
 
 ---
 
-### Presentations & Posters
-Physics and Astronomy Undergraduate Poster Session, *University of Pittsburgh*  
-- Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP)
-- Sub-halo Alignment’s Dependence of Halo Clustering
+### **Presentations & Posters**
+**Physics and Astronomy Undergraduate Poster Session, *University of Pittsburgh***  
+    Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP)
+    Sub-halo Alignment’s Dependence of Halo Clustering
 
 ---
 
-### Work Experience
-**Radiation Safety Office, University of Pittsburgh** (May 2024 – August 2024)  
+### **Work Experience**
+**Radiation Safety Office, University of Pittsburgh** May 2024 – August 2024  
 *Intern*  
--Conducted lab surveys to verify proper use of radioactive material in research laboratory settings
--Serviced medical equipment (e.g. MRI, X-ray, CT) for the University of Pittsburgh Medical Center
+- Conducted lab surveys to verify proper use of radioactive material in research laboratory settings
+- Serviced medical equipment (e.g. MRI, X-ray, CT) for the University of Pittsburgh Medical Center
