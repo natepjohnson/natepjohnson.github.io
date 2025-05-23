@@ -43,8 +43,8 @@ Dr. Michael Hatridge, HATLAB, University of Pittsburgh, Pittsburgh, PA
 
 ### **Presentations & Posters**
 **Physics and Astronomy Undergraduate Poster Session, *University of Pittsburgh***  
-    Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP)
-    Sub-halo Alignment’s Dependence of Halo Clustering
+&nbsp;[Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP)](https://drive.google.com/file/d/1ALcJ5jZS2Ex2AMWRszHjLHBsh9j1ZW0a/view?usp=sharing)  
+&nbsp;[Sub-halo Alignment’s Dependence of Halo Clustering](https://drive.google.com/file/d/12LyNud95TJlr9v9vn0X73wSuHLW117b-/view?usp=sharing)
 
 ---
 
