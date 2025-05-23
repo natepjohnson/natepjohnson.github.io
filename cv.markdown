@@ -6,14 +6,14 @@ permalink: /cv/
 
 [Download](https://pitt-my.sharepoint.com/:w:/g/personal/npj16_pitt_edu/ES7MgxDwLvhPsO1cabKxPk8Bxi4HOhscGWiiuh9hxy_64w?e=n9GzOE)
 
-## **Education**
-### **University of Pittsburgh, Pittsburgh, Pennsylvania**
+### **Education**
+#### **University of Pittsburgh, Pittsburgh, Pennsylvania**  
 B.S. in Physics and Astronomy, Graduate School Prepreation, with Honors, *summa cum laude*  
 Computer Science Minor  
 Quantum Computing and Information Certificate  
 Graduated May 2025, 3.8 GPA
 
-### **University of Edinburgh, Edinburgh, Scotland**
+#### **University of Edinburgh, Edinburgh, Scotland**  
 Scottish Unviersities International Summer School, Creative Writing
 
 ## **Research Experience**
