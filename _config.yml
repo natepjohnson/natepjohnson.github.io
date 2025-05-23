@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -53,3 +54,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+title: Nate P. Johnson
+description: Bookmark this to keep an eye on my project updates!
+>>>>>>> ec4612d099c57f881456f4671c7e873c1972a3df
