@@ -9,9 +9,9 @@ permalink: /cv/
 ### **Education**
 **University of Pittsburgh, Pittsburgh, Pennsylvania**  
 B.S. in Physics and Astronomy, Graduate School Prepreation, with Honors, *summa cum laude*  
-&nbsp;&nbsp;&nbsp;&nbsp;Computer Science Minor  
-&nbsp;&nbsp;&nbsp;&nbsp;Quantum Computing and Information Certificate  
-&nbsp;&nbsp;&nbsp;&nbsp;Graduated May 2025, 3.8 GPA  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Science Minor  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quantum Computing and Information Certificate  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduated May 2025, 3.8 GPA  
 
 **University of Edinburgh, Edinburgh, Scotland**  
 Scottish Unviersities International Summer School, Creative Writing
@@ -43,8 +43,8 @@ Scottish Unviersities International Summer School, Creative Writing
 
 ### **Presentations & Posters**
 **Physics and Astronomy Undergraduate Poster Session, *University of Pittsburgh***  
-&nbsp;&nbsp;&nbsp;&nbsp;[Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP)](https://drive.google.com/file/d/1ALcJ5jZS2Ex2AMWRszHjLHBsh9j1ZW0a/view?usp=sharing)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Sub-halo Alignment’s Dependence of Halo Clustering](https://drive.google.com/file/d/12LyNud95TJlr9v9vn0X73wSuHLW117b-/view?usp=sharing)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP)](https://drive.google.com/file/d/1ALcJ5jZS2Ex2AMWRszHjLHBsh9j1ZW0a/view?usp=sharing)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sub-halo Alignment’s Dependence of Halo Clustering](https://drive.google.com/file/d/12LyNud95TJlr9v9vn0X73wSuHLW117b-/view?usp=sharing)
 
 ---
 
@@ -68,6 +68,5 @@ Society of Physics Students, *Member*
 - Designed the avionics electronics and software for a large-scale model rocket, including GPS and radio communication
 
 **Pitt Tonight, University of Pittsburgh** August 2023 – May 2025  
-*Production Member*  
 *Production Executive & Stage Manager*  
 - Lead the production team for the University of Pittsburgh’s late night talk show, including day-of-show production and post-production
