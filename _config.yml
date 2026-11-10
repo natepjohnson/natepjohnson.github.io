@@ -24,13 +24,13 @@ repository               : "natepjohnson/natepjohnson.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Nathaniel P. Johnson"
+  pronouns         : "he/him"  
+  bio              : "Physics Master's Student"
+  location         : "Pittsburgh, PA"
+  employer         : "University of Pittsburgh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "npj16@pitt.edu" 
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
